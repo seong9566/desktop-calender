@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:windows_calender_app/view/home/home_view_model.dart';
-import 'package:windows_calender_app/view/home/todo_list.dart';
+import 'package:windows_calender_app/view/todo_list/todo_list.dart';
 import 'package:windows_calender_app/view/home/widgets/drawer_list_tile.dart';
 
 class HomeView extends StatefulWidget {
